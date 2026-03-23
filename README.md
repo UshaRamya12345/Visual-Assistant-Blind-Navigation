@@ -27,7 +27,8 @@ pip install ultralytics opencv-python pyttsx3
 Run the Script:
 python vision.py
 
- Engineering Significance
+ Engineering Significance:-
+ 
 As an Electronics & Communication Engineering (ECE) student, this project demonstrates my ability to integrate AI software with portable hardware constraints. It focuses on System Optimization, Resource Management, and Human-Computer Interaction (HCI).
 Developed by: Addepalli Usha Ramya
 Institution: Usha Rama College of Engineering and Technology
